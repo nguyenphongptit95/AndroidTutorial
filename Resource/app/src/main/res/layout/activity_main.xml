@@ -11,4 +11,11 @@
         android:id="@+id/txt_hello"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/etxt"
+        android:text="@string/hello"
+        android:textColor="@color/opaque_red"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
 </LinearLayout>
